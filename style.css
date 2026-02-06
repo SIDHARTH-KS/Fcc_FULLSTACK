@@ -1,13 +1,11 @@
-body{
-    /* text color */
-    color:red; 
-    background: yellow;
-    font-size: 20px;
-    font-weight: lighter;
-    text-align: center;
+img{
+    width: 300px;
+    /* to stack it one by one */
+    display: block;
 
-    margin-top: 10px;
-
-     
-
+}
+input{
+    width: 250px;
+    border-radius:10px;
+    
 }
