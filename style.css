@@ -1,11 +1,14 @@
 .main{
-    margin-top: 30px;
+    margin-top: 20px;
 }
 .image {
   height: 150px;
   width: 300px;
   margin-top: 0;
   display: block;
+  margin-bottom: -20px;
+  
+
 }
 
 
