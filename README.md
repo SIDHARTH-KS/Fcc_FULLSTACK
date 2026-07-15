@@ -1,2 +1,2 @@
 # Fcc_FULLSTACK
-aaah shit here we go again
+FULL STACK JOURNEY V2 (DISCONTINUED)
